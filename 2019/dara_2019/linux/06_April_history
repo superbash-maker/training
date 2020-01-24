@@ -1,0 +1,1000 @@
+   87  rm hello.py 
+   88  ll
+   89  python3
+   90  gedit hello.py
+   91  sudo apt install gedit
+   92  clear
+   93  gedit hello.py
+   94  python3 hello.py 
+   95  gedit coins.py
+   96  python3 coins.py 
+   97  gedit coins.py
+   98  gedit hello.py 
+   99  gedit coins.py
+  100  python3 coins.py 
+  101  gedit coins.py
+  102  python3 coins.py 
+  103  gedit coins.py
+  104  python3 coins.py 
+  105  gedit coins.py
+  106  python3 coins.py 
+  107  gedit coins.py
+  108  python3 coins.py 
+  109  gedit coins.py
+  110  python3 coins.py
+  111  clear
+  112  python3
+  113  python3 coins.py 
+  114  python3
+  115  python3
+  116  clear
+  117  gedit coins.py 
+  118  poweroff
+  119  ls
+  120  ls -l
+  121  cd /media/sf_Linux_VB/
+  122  ls
+  123  cd ~/Documents/
+  124  ll
+  125  mkdir ephraim
+  126  cd ephraim/
+  127  sudo cp /media/sf_Linux_VB/*dat .
+  128  sudo /media/sf_Linux_VB/
+  129  cd /media/sf_Linux_VB/
+  130  ll
+  131  cd /media/
+  132  ll
+  133  cd sf_Linux_VB/
+  134  sudo chmod -R osboxes.osboxes sf_Linux_VB
+  135  sudo chown -R osboxes.osboxes sf_Linux_VB
+  136  ll
+  137  cd sf_Linux_VB/
+  138  ll
+  139  cd ~/Documents/ephraim/
+  140  ll
+  141  sudo cp /media/sf_Linux_VB/*dat .
+  142  sudo cp /media/sf_Linux_VB/Rg.dat .
+  143  sudo cp /media/sf_Linux_VB/schrodinger.plot .
+  144  ll
+  145  chown osboxes.osboxes *
+  146  ll
+  147  sudo chown osboxes.osboxes *
+  148  ll
+  149  vim Rg.dat 
+  150  sudo apt-get install vim
+  151  sudo apt-get install gnuplot
+  152  ll
+  153  vim schrodinger.plot 
+  154  gnuplot < schrodinger.plot 
+  155  display Test.png 
+  156  sudo apt-get install imagemagick
+  157  display Test.png 
+  158  vim schrodinger.plot 
+  159  gnuplot < schrodinger.plot 
+  160  display Test.png 
+  161  vim schrodinger.plot 
+  162  gnuplot < schrodinger.plot 
+  163  display Test.png 
+  164  vim schrodinger.plot 
+  165  gnuplot < schrodinger.plot 
+  166  display Test.png 
+  167  vim schrodinger.plot 
+  168  gnuplot < schrodinger.plot 
+  169  display Test.png 
+  170  vim schrodinger.plot 
+  171  gnuplot < schrodinger.plot 
+  172  display Test.png 
+  173  vim schrodinger.plot 
+  174  gnuplot < schrodinger.plot 
+  175  display Test.png 
+  176  vim schrodinger.plot 
+  177  gnuplot < schrodinger.plot 
+  178  display Test.png 
+  179  vim schrodinger.plot 
+  180  gnuplot < schrodinger.plot 
+  181  display Test.png 
+  182  sudo cp schrodinger.plot /media/sf_Linux_VB/
+  183  vim Test.png 
+  184  vim schrodinger.plot 
+  185  gnuplot < schrodinger.plot 
+  186  display Test.png 
+  187  vim schrodinger.plot 
+  188  gnuplot < schrodinger.plot 
+  189  display Test.png 
+  190  vim schrodinger.plot 
+  191  gnuplot < schrodinger.plot 
+  192  vim schrodinger.plot 
+  193  display Test.png 
+  194  vim schrodinger.plot 
+  195  gnuplot < schrodinger.plot 
+  196  display Test.png 
+  197  vim schrodinger.plot 
+  198  gnuplot < schrodinger.plot 
+  199  display Test.png 
+  200  vim schrodinger.plot 
+  201  gnuplot < schrodinger.plot 
+  202  display Test.png 
+  203  sudo cp schrodinger.plot /media/sf_Linux_VB/
+  204  sudo apt update
+  205  sudo apt upgrade
+  206  poweroff
+  207  ls
+  208  cd 
+  209  ll
+  210  clear
+  211  ls
+  212  cd Documents/
+  213  ls
+  214  cd Linux/
+  215  ls
+  216  ll
+  217  cd ..
+  218  ll
+  219  python3
+  220  cd /media/osboxes/VBox_GAs_6.0.6/
+  221  ll
+  222  sudo ./VBoxLinuxAdditions.run 
+  223  reboot
+  224  python3
+  225  ll
+  226  ls
+  227  cd /home/
+  228  ll
+  229  which python3
+  230  clear
+  231  ll
+  232  python3
+  233  which python
+  234  ll
+  235  cd ..
+  236  ll
+  237  cd Docn
+  238  cd Documents/
+  239  ll
+  240  clear
+  241  ll
+  242  cd Linux/
+  243  ll
+  244  cd ../Python_Examples/
+  245  ll
+  246  cd ..
+  247  ll
+  248  cd ..
+  249  ll
+  250  clear
+  251  ls
+  252  cat Documents/Linux/script4.sh 
+  253  cat Documents/Linux/script5.sh 
+  254  cat Documents/Linux/script6.sh 
+  255  ll
+  256  gnuplot
+  257  clear
+  258  sudo apt-get update
+  259  sudo apt-get upgrade
+  260  poweroff
+  261  date
+  262  man date
+  263  date %A
+  264  date%A
+  265  date+%A
+  266  date-%A
+  267  clear
+  268  man date
+  269  date -d
+  270  date -%A
+  271  date+%A
+  272  clear
+  273  date %A
+  274  date-%A
+  275  clear
+  276  exit
+  277  echo
+  278  echo 'Hello there'
+  279  ECHO
+  280  ls
+  281  mkdir linux
+  282  ls
+  283  cd linux
+  284  ls
+  285  pwd
+  286  cat > shopping_list
+  287  ls
+  288  cat shopping_list 
+  289  nano shopping_list 
+  290  cat shopping_list 
+  291  ls
+  292  rm -v shopping_list 
+  293  ls
+  294  touch test.txt
+  295  ls
+  296  cat test.txt 
+  297  cp -v test.txt test2.txt
+  298  ls
+  299  mv test2.txt test5.txt
+  300  ls
+  301  nano secret-of-the-universe.txt
+  302  ls
+  303  nano hello.txt
+  304  clear
+  305  ls
+  306  cat hello.txt 
+  307  cat secret-of-the-universe.txt 
+  308  cp secret-of-the-universe.txt answer.txt
+  309  cat answer.txt 
+  310  cp hello.txt answer.txt 
+  311  cat answer.txt 
+  312  clear
+  313  cat answer.txt secret-of-the-universe.txt 
+  314  ls
+  315  clear
+  316  ls
+  317  mkdir toremove
+  318  ls
+  319  rm toremove
+  320  ls
+  321  rm toremove
+  322  rmdir toremove
+  323  ls
+  324  mkdir test
+  325  ls
+  326  cd test/
+  327  ls
+  328  touch 1.txt 2.txt 3.txt
+  329  ls
+  330  cd .
+  331  cd ..
+  332  ls
+  333  rmdir test
+  334  rm -rv test
+  335  ls
+  336  ls -l
+  337  ls
+  338  rm -v test*
+  339  ls
+  340  date '+%A"
+  341  date '+%A'
+  342  clear
+  343  date +%A
+  344  date +%a
+  345  clear
+  346  date
+  347  date +%D
+  348  clear
+  349  date
+  350  date +%A
+  351  ll
+  352  clear
+  353  ls
+  354  touch sonnet-18.txt
+  355  clear
+  356  ls
+  357  mkdir poetry
+  358  ls
+  359  mv sonnet-18.txt poetry/
+  360  ls
+  361  cd poetry/
+  362  ls
+  363  cd ..
+  364  ls 
+  365  ls poetry/
+  366  hostname
+  367  man hostname
+  368  hostname -i
+  369  hostname -I
+  370  clear
+  371  ls
+  372  nano names.txt
+  373  clear
+  374  cat names.txt 
+  375  sort names.txt 
+  376  sort -u names.txt 
+  377  sort -u names.txt > sorted_names.txt
+  378  ls
+  379  cat sorted_names.txt 
+  380  sort -u names.txt > sorted_names.txt
+  381  cat sorted_names.txt 
+  382  sort -u names.txt >> sorted_names.txt
+  383  cat sorted_names.txt 
+  384  ls
+  385  files="answer.txt" 
+  386  echo 'files'
+  387  echo $files
+  388  echo $PATH
+  389  ls /usr/local/bin/
+  390  ls /usr/local/sbin/
+  391  ls /usr/bin/
+  392  history
+  393  touch 1.txt 2.txt 3.txt
+  394  ls
+  395  rm *txt
+  396  cd linux
+  397  history
+  398  history > mycommands.txt
+  399  ls
+  400  cat mycommands.txt 
+  401  ls
+  402  touch file1.txt file2.txt file3.txt file4.txt file5.txt 
+  403  ls
+  404  for names in `ls file*.txt`; do mv -v $names $names.old; done
+  405  ls
+  406  seq 1 10
+  407  seq 1 10 > numbers1.txt
+  408  ls
+  409  clear
+  410  cat numbers1.txt 
+  411  for i in `cat numbers1.txt`; do echo "This is: "; done
+  412  cat numbers1.txt 
+  413  for i in `cat numbers1.txt`; do echo "This is: "; done
+  414  for i in `cat numbers1.txt`; do echo "This is: "$i; done
+  415  echo $i
+  416  basename file1.txt.old .txt.old
+  417  clear
+  418  for i in `ls *txt.old`; do basename $i .txt.old; done
+  419  clear
+  420  for i in `ls *txt.old`; do basename $i .txt.old; done
+  421  ls
+  422  for i in `ls *txt.old`; do basename $i .txt.old; done
+  423  ls
+  424  for i in `ls *txt.old`; do basename $i .txt.old; done 
+  425  for i in `ls *txt.old`; do basename $i .txt.old; done > mynames.txt
+  426  ls
+  427  cat mynames.txt 
+  428  ls
+  429  for j in `cat mynames.txt`;do echo $j; done
+  430  for j in `cat mynames.txt`;do mv -v $j.txt.old $j.txt; done
+  431  clear
+  432  for i in `seq 1 10`;do for j in `seq 2 20`;do echo $i echo $j ;done; done
+  433  clear
+  434  ll
+  435  clear
+  436  ls
+  437  find . -name '*txt'
+  438  mv file1.txt file1.TXT
+  439  find . -name '*txt'
+  440  find . -iname '*txt'
+  441  echo "Lets count these words"
+  442  echo "Lets count these words" | wc
+  443  echo "Lets count these words" | wc -c
+  444  `echo "Lets count these words" | wc -c`
+  445  num=echo "Lets count these words" | wc -c
+  446  `echo "Lets count these words" | wc -c`
+  447  clear
+  448  echo "Lets count these words" | wc -c
+  449  `echo "Lets count these words" | wc -c`
+  450  num=`echo "Lets count these words" | wc -c`
+  451  echo "This is the number of characters: "$num
+  452  poweroff
+  453  tail -f numbers
+  454  clear
+  455  cd linux/
+  456  ls
+  457  clear
+  458  pwd
+  459  ls
+  460  cat my
+  461  cat mycommands.txt 
+  462  rm mycommands.txt 
+  463  clear
+  464  ls'
+  465  ls
+  466  pwd
+  467  clear
+  468  echo "This is a search test"
+  469  echo "This is a search test" > test.txt
+  470  ls
+  471  cat test.txt 
+  472  echo "Lets add another line"
+  473  echo "Lets add another line" >> test.txt 
+  474  cat test.txt 
+  475  grep 'add' test.txt 
+  476  grep -n 'add' test.txt 
+  477  grep -n 'ADD' test.txt 
+  478  grep -ni 'ADD' test.txt 
+  479  echo "This is me adding a third line" >> test.txt
+  480  cat test.txt 
+  481  grep -ni 'ADD' test.txt 
+  482  cat test.txt 
+  483  sed -e 's/add/append/g' test.txt 
+  484  cat test.txt 
+  485  sed -i 's/add/append/g' test.txt 
+  486  cat test.txt 
+  487  history
+  488  history | head 
+  489  history | head -20
+  490  history | tail -20
+  491  seq 1 1000000
+  492  seq 1 0.5 100000 >> numbers
+  493  cat numbers
+  494  clear
+  495  rm numbers
+  496  seq 1 0.5 1000000 >> numbers
+  497  rm numbers
+  498  seq 1 0.5 10000000 >> numbers
+  499  clear
+  500  ls
+  501  cat test.txt 
+  502  nano test.txt 
+  503  cat test.txt 
+  504  sed -e '1s/This/That/g' test.txt 
+  505  sed -i '1s/This/That/g' test.txt 
+  506  cat test.txt 
+  507  sed -e '3s/is/was/g' test.txt 
+  508  sed -e '3s/is/was/2g' test.txt 
+  509  sed -i '3s/is/was/2g' test.txt 
+  510  cat test.txt 
+  511  clear
+  512  ls
+  513  cat ls
+  514  clear
+  515  ls
+  516  cat
+  517  clear
+  518  nano script1.sh
+  519  ls
+  520  gedit 
+  521  gedit script1.sh 
+  522  ls
+  523  chmod u+x script1.sh 
+  524  ls
+  525  ./script1.sh 
+  526  gedit script1.sh 
+  527  ./script1.sh 
+  528  gedit script1.sh 
+  529  ./script1.sh 
+  530  ls
+  531  clear
+  532  ls
+  533  cat ~/Documents/Linux/script4.sh 
+  534  ls
+  535  cat ~/Documents/Linux/script5.sh 
+  536  cat ~/Documents/Linux/script6.sh 
+  537  ll
+  538  clear
+  539  ls
+  540  gedit  script1.sh 
+  541  ./script1.sh 
+  542  gedit  script1.sh 
+  543  ./script1.sh 
+  544  gedit script2.sh
+  545  chmod u+x script2.sh 
+  546  ./script2.sh 
+  547  ls
+  548  gedit script2.sh
+  549  history | grep 'wc'
+  550  gedit script2.sh
+  551  ./script2.sh 
+  552  gedit script2.sh
+  553  ./script2.sh 
+  554  gedit script2.sh
+  555  ./script2.sh 
+  556  gedit script2.sh
+  557  ./script2.sh 
+  558  echo 2+10
+  559  echo "2+10"
+  560  echo "2+10" | bc
+  561  gedit script3.sh
+  562  man bc
+  563  gedit script3.sh
+  564  gedit script3.sh &
+  565  ./script3.sh
+  566  chmod u+x script3.sh 
+  567  ./script3.sh 
+  568  ./script3.sh
+  569  clear
+  570  ./script3.sh
+  571  echo "2/3" | bc
+  572  echo "2/3" | bc -l
+  573  echo "2/3" | bc -l3
+  574  echo "2/3" | bc -s
+  575  echo "2/3" | bc -sl
+  576  echo "2/3" | bc -sl | awk -F'.'{print $2}' 
+  577  echo "2/3" | bc -sl | awk -F'.' '{print $2}' 
+  578  ls
+  579  cd Desktop/linux/
+  580  ll
+  581  ls
+  582  clear
+  583  cat script3.sh 
+  584  ./script3.sh 
+  585  man bc
+  586  gedit script3.sh &
+  587  ./script3.sh 
+  588  clear
+  589  ll
+  590  clear
+  591  cat ~/Documents/Linux/script4.sh 
+  592  cat ~/Documents/Linux/script5.sh 
+  593  cat ~/Documents/Linux/script6.sh 
+  594  clear
+  595  ll
+  596  cat numbers
+  597  ls
+  598  clear
+  599  ls
+  600  gedit script4.sh &
+  601  echo $RANDOM
+  602  clear
+  603  for i in `seq 1 1000`;do echo $RANDOM; done
+  604  clear
+  605  gedit script4.sh 
+  606  gedit script4.sh &
+  607  chmod u+x script4.sh 
+  608  ./script4.sh 
+  609  echo $RANDOM
+  610  echo $random
+  611  echo $RANDOM
+  612  ./script4.sh 
+  613  echo $RANDOM
+  614  ./script4.sh 
+  615  rm rand1.txt 
+  616  ./script4.sh 
+  617  gnuplot
+  618  cd linux/
+  619  clear
+  620  wget http://gnuplot.sourceforge.net/demo_5.2/surface1.1.gnu
+  621  ll
+  622  ls
+  623  cat surface1.1.gnu 
+  624  ll
+  625  clear
+  626  cat surface1.1.gnu 
+  627  clear
+  628  gnuplot < surface1.1.gnu 
+  629  gedit surface1.1.gnu 
+  630  ls
+  631  $grid << EOD
+  632  5 4 3 1 0
+  633  2 2 0 0 1
+  634  0 0 0 1 0
+  635  0 0 0 2 3
+  636  0 1 2 4 3
+  637  EOD
+  638  ls
+  639  gedit surface1.1.gnu 
+  640  gnuplot < surface1.1.gnu 
+  641  ls
+  642  gedit surface1.1.gnu 
+  643  gnuplot < surface1.1.gnu 
+  644  ls
+  645  display surface1.1.png 
+  646  gedit surface1.1.
+  647  gedit surface1.1.gnu 
+  648  clear
+  649  ls
+  650  gedit script4.sh 
+  651  ./script4.sh 
+  652  sort rand1.txt 
+  653  clear
+  654  sort rand1.txt 
+  655  man sort
+  656  clear
+  657  gedit script4.sh 
+  658  man paste
+  659  gedit script4.sh 
+  660  ./script4.sh 
+  661  cat alldata.dat 
+  662  clear
+  663  cat alldata.dat | head
+  664  gnuplot
+  665  which python3
+  666  python3
+  667  vim datafile.dat
+  668  wget http://www.rri.res.in/~kcsarkar/pages/gnuplot/datafile.tab
+  669  gnuplot
+  670  ls
+  671  cd linux/
+  672  ls
+  673  rm surface1.1.gnu surface1.1.png 
+  674  ls
+  675  cd ..
+  676  ls
+  677  ll
+  678  cd ../Documents/
+  679  ll
+  680  cd Linux/
+  681  ll
+  682  ls ~/Desktop/linux/
+  683  mv script4.sh script7.sh
+  684  mv ~/Desktop/linux/* .
+  685  ll
+  686  sl
+  687  ls
+  688  cd ..
+  689  ls
+  690  cd ..
+  691  ll
+  692  ls
+  693  clear
+  694  ls
+  695  cd Desktop/
+  696  ll
+  697  rm linux/
+  698  rm -r linux
+  699  clear
+  700  poweroffc
+  701  poweroff
+  702  cd ~/Documents/
+  703  ll
+  704  cd Python_Examples/
+  705  ll
+  706  cd numpy_matplotlib/
+  707  ll
+  708  ls
+  709  grep '3d' *.py
+  710  grep -i '3d' *.py
+  711  ls *py
+  712  vim pyplot_three.py 
+  713  python3 pyplot_three.py 
+  714  python3
+  715  which python3
+  716  python3
+  717  ll
+  718  ls
+  719  sudo apt-get install python3-matplotlib
+  720  ls
+  721  ls *py
+  722  python3 pyplot_three.py 
+  723  cd ..
+  724  ll
+  725  cd Python_
+  726  ls
+  727  mkdir python_plt
+  728  cd python_plt/
+  729  ll
+  730  vim lines3d_demo.py
+  731  python3 lines3d_demo.py 
+  732  vim lines3d_demo.py 
+  733  vim wire3d_demo.py
+  734  python3 wire3d_demo.py 
+  735  cat wire3d_demo.py 
+  736  cat lines3d_demo.py 
+  737  clear
+  738  python3 lines3d_demo.py 
+  739  clear
+  740  ls
+  741  python3 wire3d_demo.py 
+  742  vim wire3d_demo.py 
+  743  clear
+  744  python3
+  745  clear
+  746  vim surface3d_demo.py
+  747  python3 surface3d_demo.py 
+  748  vim surface3d_demo.py 
+  749  python3 surface3d_demo.py 
+  750  vim surface3d_demo.py 
+  751  python3 surface3d_demo.py 
+  752  vim surface3d_demo.py 
+  753  python3 wire3d_demo.py 
+  754  clear
+  755  vim wire3d_demo.py 
+  756  ls
+  757  vim data.txt
+  758  vim scatter.py
+  759  python3 scatter.py 
+  760  vim scatter.py
+  761  python3 scatter.py 
+  762  vim scatter.py
+  763  python3 scatter.py 
+  764  vim scatter.py 
+  765  python3 scatter.py 
+  766  vim scatter.py 
+  767  python3 scatter.py 
+  768  vim scatter.py 
+  769  python3 scatter.py 
+  770  vim scatter.py 
+  771  python3 scatter.py 
+  772  ll
+  773  mv scatter.py scatter3d.py 
+  774  vim scatter3d.py 
+  775  python3 scatter3d.py 
+  776  vim scatter3d.py 
+  777  python3 scatter3d.py 
+  778  vim scatter3d.py 
+  779  python3 scatter3d.py 
+  780  vim scatter3d.py 
+  781  python3 scatter3d.py 
+  782  vim scatter3d.py 
+  783  python3 scatter3d.py 
+  784  vim scatter3d.py 
+  785  python3 scatter3d.py 
+  786  vim scatter3d.py 
+  787  python3 scatter3d.py 
+  788  vim scatter3d.py 
+  789  clear
+  790  cat data.txt 
+  791  atom
+  792  cd /media/
+  793  ls
+  794  sudo cp sf_Linux_VB/Anaconda3-2018.12-Linux-x86_64.sh ~/Desktop/
+  795  ls
+  796  cd ~/Desktop/
+  797  lds
+  798  ls
+  799  ll
+  800  sudo chown osboxes.osboxes Anaconda3-2018.12-Linux-x86_64.sh
+  801  clear
+  802  ls
+  803  ll
+  804  rm Anaconda3-2018.12-Linux-x86_64.sh 
+  805  ls
+  806  ls -l
+  807  clear
+  808  cd /media/
+  809  ll
+  810  cd sf_Linux_VB/
+  811  ll
+  812  sudo cd sf_Linux_VB/
+  813  cd ~/Documents/
+  814  ll
+  815  cd Python_Examples/
+  816  ll
+  817  cd numpy_matplotlib/
+  818  ll
+  819  ls
+  820  cat barchart.py 
+  821  ls
+  822  cat calc_pi.py 
+  823  cd ../../
+  824  ls
+  825  cd python_plt/
+  826  clear
+  827  which python3
+  828  gedit script7.py
+  829  chmod u+x script7.py 
+  830  ./script7.py 
+  831  gedit script7.py &
+  832  ./script7.py
+  833  gedit script7.py &
+  834  ./script7.py 
+  835  ll
+  836  cat scatter3d.py 
+  837  ls
+  838  clear
+  839  gedit script7.py 
+  840  ./script7.py 
+  841  gedit script7.py 
+  842  ./script7.py 
+  843  gedit script7.py 
+  844  ./script7.py 
+  845  gedit script7.py 
+  846  ./script7.py 
+  847  gedit script7.py 
+  848  ./script7.py 
+  849  gedit script7.py 
+  850  ./script7.py 
+  851  gedit script7.py 
+  852  ./script7.py 
+  853  clear
+  854  ls
+  855  clear
+  856  cat data.txt 
+  857  gedit data.txt 
+  858  clear
+  859  gedit data.txt 
+  860  mv scatter3d.py script8.py
+  861  clear
+  862  which python3
+  863  gedit script8.py 
+  864  chmod u+x script8.py 
+  865  ./script8.py 
+  866  poweroff
+  867  ls
+  868  mkdir dara_2019
+  869  ls
+  870  cd dara_2019
+  871  mkdir linux
+  872  ls
+  873  cd linux
+  874  pwd
+  875  date
+  876  echo 
+  877  echo 'Hello'
+  878  ECHO
+  879  cat > shopping_list
+  880  ls
+  881  cat shopping_list
+  882  gedit shopping_list
+  883  cat shopping_list 
+  884  ls
+  885  cat >> shopping_list 
+  886  cat shopping_list 
+  887  ls
+  888  cat shopping_list 
+  889  ls
+  890  rm -v shopping_list 
+  891  ls
+  892  touch -v test.txt
+  893  touch test.txt
+  894  ls
+  895  cat test.txt 
+  896  cp -v test.txt test2.txt
+  897  ls
+  898  mv test2.txt test3.txt
+  899  ls
+  900  history
+  901  gedit hello.txt
+  902  ls
+  903  cat > hello.txt
+  904  pwd
+  905  ls
+  906  cd Desktop/dara_2019/linux/
+  907  ls
+  908  cat hello.txt 
+  909  ls
+  910  pwd
+  911  ls
+  912  mkdir stuff
+  913  ls
+  914  cd stuff/
+  915  pwd
+  916  touch going.txt going2.txt going3.txt
+  917  ls
+  918  cat going.txt 
+  919  cat >> going.txt
+  920  cat going.txt 
+  921  gedit going2.txt 
+  922  cat going2.txt 
+  923  nano going3.txt 
+  924  pwd
+  925  cat going3.txt 
+  926  cat going.txt going2.txt going3.txt 
+  927  cat going2.txt going.txt going3.txt 
+  928  cat going.txt going2.txt going3.txt 
+  929  ls
+  930  cd ..
+  931  pwd
+  932  cd ...
+  933  cd stuff/
+  934  pwd
+  935  cd ../../
+  936  pwd
+  937  cd linux/stuff/
+  938  pwd
+  939  cd ../
+  940  pwd
+  941  ls
+  942  rm -v stuff
+  943  man rm
+  944  rm -d stuff
+  945  rm -rv stuff
+  946  ls
+  947  ls -l
+  948  cd ../
+  949  ls 
+  950  ls .
+  951  ls linux/
+  952  ls ../
+  953  cd linux/
+  954  pwd
+  955  ls
+  956  clear
+  957  ls
+  958  cat test2
+  959  cat test3.txt 
+  960  cat test.txt 
+  961  gedit test3.txt 
+  962  gedit test.txt 
+  963  clear
+  964  touch test4.dat
+  965  ls 
+  966  ls *.txt
+  967  gedit test4.dat 
+  968  ls *.txt
+  969  ls
+  970  cat *txt
+  971  hostname
+  972  man hostname
+  973  hostname -i
+  974  hostname -I
+  975  ssh avntrainee@192.168.10.59
+  976  gedit shakespear
+  977  cat shakespear 
+  978  mv shakespear sonnet-18.txt
+  979  ls
+  980  mkdir poetry
+  981  ls
+  982  mv sonnet-18.txt poetry/
+  983  ls
+  984  ls poetry/
+  985  cd poetry/
+  986  gedit sonnet-29.txt
+  987  cat sonnet-
+  988  cat sonnet-29.txt 
+  989  clear
+  990  ls
+  991  cat *
+  992  cat *txt
+  993  cat sonnet-*
+  994  cd ..
+  995  pwd
+  996  history
+  997  files="thisisfile1"
+  998  echo files
+  999  echo $files
+ 1000  cd Desktop/dara_2019/linux/
+ 1001  echo $files
+ 1002  files="thisisfile1"
+ 1003  echo $files
+ 1004  echo $PATH
+ 1005  history
+ 1006  hostname -I
+ 1007  history
+ 1008  hostname -I -i
+ 1009  history
+ 1010  cd ..
+ 1011  pwd
+ 1012  find . -name 'sonnet'
+ 1013  find . -name 'sonnet*'
+ 1014  find . -name 'Sonnet*'
+ 1015  find . -iname 'Sonnet*'
+ 1016  clear
+ 1017  find . -iname 'Sonnet*'
+ 1018  pw
+ 1019  pwd
+ 1020  cd linux/
+ 1021  pwd
+ 1022  touch barbie.txt food.txt quirks.txt
+ 1023  ls
+ 1024  ls *txt
+ 1025  for name in `ls *txt`; do echo $name; done
+ 1026  for name in `ls *txt`; do mv .txt .old; done
+ 1027  for name in `ls *txt`; do mv -v $name $name.old; done
+ 1028  ls *txt
+ 1029  ls *txt*
+ 1030  ls *old
+ 1031  basename barbie.txt.old .txt.old
+ 1032  basename barbie.txt.old .txt.old > filename
+ 1033  ls
+ 1034  cat filename 
+ 1035  rm filename 
+ 1036  clear
+ 1037  ls
+ 1038  for name in 'barbie.txt.old'; do basename $name .old; done
+ 1039  for name in 'barbie.txt.old'; do basename $name txt.old; done
+ 1040  for name in 'barbie.txt.old'; do basename $name .txt.old; done
+ 1041  for name in `ls *.txt.old`; do basename $name .txt.old; done
+ 1042  for name in `ls *.txt.old`; do basename $name .txt.old > filenames; done
+ 1043  ls
+ 1044  cat filenames 
+ 1045  for name in `ls *.txt.old`; do basename $name .txt.old; done > filenames
+ 1046  cat filenames 
+ 1047  for name in `ls *.txt.old`; do basename $name .txt.old >> filenames2; done
+ 1048  cat filenames
+ 1049  cat filenames2
+ 1050  for name in `ls *.txt.old`; do basename $name .txt.old >> filenames2; done
+ 1051  cat filenames2 
+ 1052  for name in `ls *.txt.old`; do basename $name .txt.old; done > filenames
+ 1053  cat filenames
+ 1054  for name in `cat filenames`; do echo $name; done
+ 1055  for name in `cat filenames`; do mv -v $name $name; done
+ 1056  for name in `cat filenames`; do mv -v $name.txt.old $name.txt; done
+ 1057  echo "Lets count these words"
+ 1058  echo "Lets count these words" | wc
+ 1059  echo "Lets count these words" | wc -w
+ 1060  echo "Lets count these words" | wc -l
+ 1061  echo "Lets count these words" | wc -c
+ 1062  ls
+ 1063  echo "This is line1" 
+ 1064  echo "This is line1" > wordfile.txt
+ 1065  cat wordfile.txt 
+ 1066  echo "This is line2" >> wordfile.txt
+ 1067  echo "This is line3" >> wordfile.txt
+ 1068  echo "This is line4" >> wordfile.txt
+ 1069  echo "This is line5" >> wordfile.txt
+ 1070  cat wordfile.txt 
+ 1071  cat wordfile.txt | wc -w
+ 1072  wc -w wordfile.txt 
+ 1073  wc -w wordfile.txt filenames
+ 1074  ls
+ 1075  clear
+ 1076  ls -l
+ 1077  gedit names.txt
+ 1078  cat names.txt 
+ 1079  sort names.txt 
+ 1080  man sort
+ 1081  sort names.txt 
+ 1082  sort -m names.txt 
+ 1083  sort -u names.txt 
+ 1084  history 
+ 1085  clear
+ 1086  history > 06_April_history
