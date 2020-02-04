@@ -141,7 +141,7 @@ plt.subplot(1,2,1)
 plot_image(i, predictions, test_labels, test_images)
 plt.subplot(1,2,2)
 plot_value_array(i, predictions,  test_labels)
-plt.savefig('0th_image.png')
+#plt.savefig('0th_image.png')
 #plt.show()
 
 # Let's plot the 12th image, predictions and prediction array
@@ -151,7 +151,7 @@ plt.subplot(1,2,1)
 plot_image(i, predictions, test_labels, test_images)
 plt.subplot(1,2,2)
 plot_value_array(i, predictions,  test_labels)
-plt.savefig('12th_image.png')
+#plt.savefig('12th_image.png')
 #plt.show()
 
 # Let's plot the first 3 test images, their predicted label and the true label
@@ -163,7 +163,7 @@ for i in range(3):
     plt.subplot(3, 2, 2*i+2)
     plot_value_array(i, predictions, test_labels)
 #plt.show()
-plt.savefig('predictions.png')
+#plt.savefig('predictions.png')
 
 # Then plot the first 15 test images, their predicted label and the true label
 #plt.figure(figsize=(12,10))
